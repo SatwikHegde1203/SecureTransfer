@@ -1,0 +1,12 @@
+This is a test file for encryption.
+<a href="{{ url_for('static', filename=download_path) }}" download>
+    Download Decrypted File
+</a>
+
+<a href="{{ url_for('static', filename=download_path) }}" download>
+    Download Decrypted File
+</a>
+
+<a href="{{ url_for('static', filename=download_path) }}" download>
+    Download Decrypted File
+</a>

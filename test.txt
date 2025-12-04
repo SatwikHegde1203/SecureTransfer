@@ -1,0 +1,2 @@
+This is the dummy file used to test the working flow and about the encryption technology. This is the original text. You'll get to see the encrypted file in test_encrypted.txt.
+Thank you.,
